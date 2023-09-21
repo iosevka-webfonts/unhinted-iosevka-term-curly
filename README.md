@@ -1,4 +1,4 @@
-# Unhinted Iosevka Term Curly WebFont 26.3.3
+# Unhinted Iosevka Term Curly WebFont 27.0.1
 
 ## How to use
 
